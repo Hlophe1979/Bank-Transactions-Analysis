@@ -4,7 +4,7 @@
 
 This project analyzes digital banking transaction data to uncover customer behavior patterns, transaction trends, channel preferences, and potential risk indicators. The goal was to transform raw transactional data into actionable business insights that can support decision-making and improve banking operations.
 
-The analysis was conducted using **Databricks** for data cleaning and exploratory analysis, while **Google Looker Studio** was used to create an interactive dashboard for data visualization and reporting.
+The analysis was conducted using **Databricks** for data cleaning and exploratory analysis, while **Data Studio** was used to create an interactive dashboard for data visualization and reporting.
 
 ---
 
@@ -49,7 +49,7 @@ The dataset contains banking transaction records with the following attributes:
 
 ---
 
-## 📊 Analysis Performed
+## Analysis Performed
 
 ### Transaction Trends
 - Transactions by Hour
